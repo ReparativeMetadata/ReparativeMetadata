@@ -10,7 +10,7 @@
 # site domain, full URL to the production location of your collection
 url: https://ReparativeMetadata.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /test
+baseurl: /ReparativeMetadata
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Test Repository
+title: Reparative Metadata
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Test of Collection Builder
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A test. Plz ignore."
+description: "Experiments in access and encounters."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: information; metadata; reparative metadata; discovery
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Me
+author: Kyle Tanaka
 
 ##########
 # COLLECTION SETTINGS
