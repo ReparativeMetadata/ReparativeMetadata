@@ -1,5 +1,5 @@
-## Reparative Metadata
-# A Brief Introduction
+# Reparative Metadata
+## A Brief Introduction
 Welcome to the reparative metadata page, part of the Center for Information Discovery, Experimentation, and Access Strategies (IDEAS)!
 This page is all about finding, strengthening, and experimenting with new ways to connect information seekers with information itself. A key part of this work is recognizing that you can tweak algorithms, searches, AI prompts, and any number of other factors all you want - if the original source isn't appropriate identified, you'll never find it.
 
@@ -11,9 +11,9 @@ Sometimes this works well, or works well enough. But in other cases existing tag
 
 Reparative metadata is all about creating metadata that better supports the range of information needs and wants of learners and researchers. 
 
-# Metadata History
+## Metadata History
 Historically, metadata was mostly created by librarians and adhered to very strict standards around what kinds of language could (or could not) be used. Today, while libraries are striving to update their lanugage and practices, they are often hindered by layers of bureaucracy and historical sampling biases (many metadata patterns were established in the early 20th century based on copyright holdings of the Library of Congress in the U.S., for example).
 
-# Current Projects
+## Current Projects
 Check back soon!
 
