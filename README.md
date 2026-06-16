@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/0/03/Museo_de_la_Catedral_de_Quito%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_94-96_HDR.JPG">
- <source media="(prefers-color-scheme: light)" srcset="[A library](https://upload.wikimedia.org/wikipedia/commons/0/03/Museo_de_la_Catedral_de_Quito%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_94-96_HDR.JPG)">
- <img alt="A library" src="[A library](https://upload.wikimedia.org/wikipedia/commons/0/03/Museo_de_la_Catedral_de_Quito%2C_Quito%2C_Ecuador%2C_2015-07-22%2C_DD_94-96_HDR.JPG)">
-</picture>
-
 # Reparative Metadata
 ## A Brief Introduction
 Welcome to the reparative metadata page, part of the Center for Information Discovery, Experimentation, and Access Strategies (IDEAS)!
